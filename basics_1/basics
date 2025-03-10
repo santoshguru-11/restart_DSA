@@ -1,0 +1,50 @@
+## Hardware Basics
+
+**Input Devices**
+- Keyboard: For typing text and commands
+- Mouse: Moves cursor and selects items
+- Touchpad: Cursor control on laptops
+- Scanner: Converts physical documents to digital
+- Microphone: Captures audio input
+
+**Output Devices**
+- Display Screen: Shows visuals (text, images, videos)
+- Speakers: Play audio
+- Earphones: Provide audio output, often with microphone
+- Printer: Produces physical copies of documents
+
+## Central Processing Unit (CPU)
+
+- Brain of the computer
+- Performs calculations and processes data
+- Cooled by a fan due to heat generation
+
+## Memory Types
+
+**Cache Memory**
+- Located on CPU chip
+- Quick access to frequently used data
+
+**Main Memory (RAM)**
+- Temporary storage for active programs and data
+- Loses data when power is off
+- Programs load from hard disk to RAM for faster CPU access
+
+**Secondary Storage**
+- Permanent data and program storage
+- Retains data when power is off
+- Examples: Hard disks, DVDs, CDs, USB drives
+
+## Operating System (OS)
+
+- Essential software managing hardware and other software
+- Controls CPU, memory, and I/O device interactions
+- Ensures proper resource allocation for programs
+
+**Examples of OS**
+- Microsoft Windows
+- Linux
+- Unix
+- macOS
+
+Sources
